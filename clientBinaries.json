@@ -48,7 +48,7 @@
             "download": {
               "url": "https://raw.githubusercontent.com/DarkPayCoin/releases-beta/master/darkpay-0.18.1.7-x86_64-linux-gnu_nousb.tar.gz",
               "type": "tar",
-              "sha256": "f72ad046dfbe1711071d40a633216506707057d1fb1ebdff9c53470ae33597dd",
+              "sha256": "6e61bc57cdef0fc61d52ab319ee9fb20968ab28a8588a8da35342bb34f64b115",
               "bin": "darkpay-0.18.1.7/bin/darkpayd"
             },
             "bin": "darkpayd",
