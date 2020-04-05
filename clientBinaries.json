@@ -8,7 +8,7 @@
             "download": {
               "url": "https://raw.githubusercontent.com/DarkPayCoin/releases-beta/master/darkpay-0.18.1.7-arm-linux-gnueabihf.tar.gz",
               "type": "tar",
-              "sha256": "816d4e18df33dc841a88701aeb3a868922344c47d22368650e9521395fba6ada",
+              "sha256": "e24ba8f76c5458ff5bed83c09693d068dbb2e1e0d5471cac77f2150277b01e85",
               "bin": "darkpay-0.18.1.7/bin/darkpayd"
             },
             "bin": "darkpayd",
