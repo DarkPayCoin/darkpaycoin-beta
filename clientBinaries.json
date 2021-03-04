@@ -8,7 +8,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/darkpay-core/releases/download/v0.18.1.8/darkpay-0.18.1.8-arm-linux-gnueabihf.tar.gz",
               "type": "tar",
-              "sha256": "e6ac5f0e6bddeaf1a1adee3957aa67b246a77b26d6307a6161270f7f4b325e44",
+              "sha256": "5d37af77bfaa26b14226247ca88e6f0e74c919a86faa7fdfeca9a5d6fecfcd74",
               "bin": "darkpay-0.18.1.8/bin/darkpayd"
             },
             "bin": "darkpayd",
@@ -28,7 +28,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/darkpay-core/releases/download/v0.18.1.8/darkpay-0.18.1.8-x86_64-linux-gnu_nousb.tar.gz",
               "type": "tar",
-              "sha256": "b74274b6ce8a637799f4211849ff38822cc48983a018c02402439ae5c27a38b3",
+              "sha256": "5d37af77bfaa26b14226247ca88e6f0e74c919a86faa7fdfeca9a5d6fecfcd74",
               "bin": "darkpay-0.18.1.8/bin/darkpayd"
             },
             "bin": "darkpayd",
@@ -48,9 +48,9 @@
         "mac": {
           "x64": {
             "download": {
-              "url": "https://github.com/DarkPayCoin/darkpay-core/releases/download/v0.18.1.8/darkpay-0.18.1.8-osx64.tar.gz",
+              "url": "https://github.com/DarkPayCoin/darkpay-core/releases/download/v0.18.1.8/darkpay-0.18.1.8-osx64_unsigned.tar.gz",
               "type": "tar",
-              "sha256": "cebdde5d17837f9fbc2f12a4a182689e7b215f105357150cce892287798f0811",
+              "sha256": "9f9cdfefb8eb7050077ab3e74d1bd7d043f62037c7fdcd09cf9c881c5c224e90",
               "bin": "darkpay-0.18.1.8/bin/darkpayd"
             },
             "bin": "darkpayd",
@@ -72,7 +72,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/darkpay-core/releases/download/v0.18.1.8/darkpay-0.18.1.8-win32.zip",
               "type": "zip",
-              "sha256": "8819db7d7324f506bc862e0d76d9dbebd4597943c39b171fb28ee2fd8d145eec",
+              "sha256": "466c3725c2ca630c9e807f7a53f4543ed1fdc94442882eb0dadf078aaa91939c",
               "bin": "darkpay-0.18.1.8/bin/darkpayd.exe"
             },
             "bin": "darkpayd.exe",
@@ -92,7 +92,7 @@
             "download": {
               "url": "https://github.com/DarkPayCoin/darkpay-core/releases/download/v0.18.1.8/darkpay-0.18.1.8-win64.zip",
               "type": "zip",
-              "sha256": "677ab43691c24ea43fae53bc7666f6339641f3bc8360fb435f20a62d27cf46b",
+              "sha256": "185b71c5e7bb7b1d2e550e5bed28da043457d3ebb0a19535377a14058df0df22",
               "bin": "darkpay-0.18.1.8/bin/darkpayd.exe"
             },
             "bin": "darkpayd.exe",
